@@ -1,11 +1,6 @@
 // admin.js
 const ADMINS_LIST = [
   "5521993267426", //campos
-  "5521966823519", //nycole
-  "558399986570", //psiiko
-  "552193759561", //mae
-  "5521976123378", //Poli
-  "5521964998249", //lucas
 ];
 
 async function handleAdminCommands(msg, text, shared) {
